@@ -62,7 +62,7 @@ const Footer = () => {
           {
             icon: "💬",
             label: "WhatsApp Support",
-            value: "+91-9876543210",
+            value: "+91-7019003366",
             description: "Chat in your language"
           },
           {

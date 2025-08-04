@@ -83,7 +83,7 @@ const CTASection = () => {
           {
             title: "WhatsApp Support",
             description: "Chat with experts on WhatsApp",
-            contact: "+91-9876543210",
+            contact: "+91-7019003366",
             hours: "9 AM - 9 PM",
             icon: "💬"
           },
