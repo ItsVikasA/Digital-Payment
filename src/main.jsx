@@ -10,7 +10,7 @@ import UnderConstruction from './UnderConstruction.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
-    {/* <UnderConstruction /> */}
+    {/* <App /> */}
+    <UnderConstruction />
   </StrictMode>,
 )
